@@ -1,0 +1,10 @@
+config.h
+config.def.h.orig
+dmenu.c.orig
+dmenu
+dmenu.o
+drw.o
+stest
+stest.o
+util.o
+*.diff
